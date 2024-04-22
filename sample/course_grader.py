@@ -42,5 +42,3 @@ def convert_to_letter_grade(score):
     else:
         return "A"
 
-
-print(convert_to_letter_grade("apple"))
